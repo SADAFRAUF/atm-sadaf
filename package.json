@@ -1,0 +1,25 @@
+{
+  "name": "1234-atm-sadaf",
+  "version": "2.0.1",
+  "main": "index.js",
+  "type": "module",
+  "publishConfig": {
+    "access": "public"
+  },
+  "bin": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "This an atm machine now it is your home",
+  "dependencies": {
+    "1234-atm-sadaf": "^1.0.0",
+    "atm-sadaf": "^1.0.0",
+    "inquirer": "^9.2.17"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
